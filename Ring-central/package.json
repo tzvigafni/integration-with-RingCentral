@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@ringcentral/sdk": "^5.0.0",
+    "@ringcentral/subscriptions": "^5.0.0",
+    "api": "^5.0.8",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-http-proxy": "^1.6.3",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "purecloud-platform-client-v2": "^170.0.0",
+    "ringcentral": "^3.3.0",
+    "ringcentral-web-phone": "^1.0.0-beta3"
+  },
+  "scripts": {
+    "start": "nodemon server1.js"
+  },
+  "name": "phonedo-ringcenteral-intgration",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
