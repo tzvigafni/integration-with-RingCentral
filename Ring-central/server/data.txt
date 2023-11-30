@@ -1,0 +1,7 @@
+
+
+servio -  ssh -R ringCentral-integration:80:localhost:8000 serveo.net
+
+
+postman
+https://www.postman.com/api-evangelist/workspace/ringcentral/collection/35240-24eb7924-81d6-4b20-8df9-2302a245d08a?action=share&creator=27185195

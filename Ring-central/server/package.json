@@ -11,10 +11,13 @@
     "express-http-proxy": "^1.6.3",
     "express-session": "^1.17.3",
     "fs": "^0.0.1-security",
+    "helmet": "^7.0.0",
+    "mysql2": "^3.6.2",
     "nodemon": "^2.0.22",
     "purecloud-platform-client-v2": "^170.0.0",
     "ringcentral": "^3.3.0",
-    "ringcentral-web-phone": "^1.0.0-beta3"
+    "ringcentral-web-phone": "^1.0.0-beta3",
+    "uuid": "^9.0.1"
   },
   "scripts": {
     "start": "nodemon server1.js"
